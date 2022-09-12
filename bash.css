@@ -1,0 +1,22 @@
+/* body{
+    width: 0%;
+    height:0%;
+    box-sizing: border-box;
+}  */
+
+.amd{
+    margin-top: 100px; 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+    
+}
+
+
+
+img{
+    width: 500px;
+    border-radius: 10%;
+    border: 5px solid red;
+}
